@@ -1,3 +1,3 @@
-This is a great post about what food we should eat in NYC. TINY CHANGE
+Here are a few restaurant recs from my classmates.
 
 {% include plot1.html %} 
