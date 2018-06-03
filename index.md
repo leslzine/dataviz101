@@ -1,2 +1,2 @@
 #### Hello World
-#### [Blog_Post1](./blogpost_sample.md)
+#### [Blog_Post1](./assignment1.md)
