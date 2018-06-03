@@ -1,3 +1,4 @@
-#### [Blog_Post1](./blogpost_sample.md)
+#### [311 Project](./assignment1.md)
 
-#### [Blog_Post2](./assignment1.md)
+#### [Class Restaurant Advice](./blogpost_sample.md)
+
