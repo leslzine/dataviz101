@@ -15,4 +15,4 @@ If you're curious about my process,
 
 My project, after I gave up on doing something with school complaints, is complaints issued on my street, Crooke Avenue in Brooklyn. 
 
-{% include plot1.html %} 
+{% include plot2.html %} 
