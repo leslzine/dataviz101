@@ -20,7 +20,7 @@ Please note that the consultations, instruction, and reference categories are mo
 {% include plot3.html %}
 
 At the moment, the embed link isn't functioning, so here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/shared/MJDPPTMY9?:display_count=yes). 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/QuantitativeSelf/AYearintheWork). 
 
 ### Further Reading
 
