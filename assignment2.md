@@ -1,11 +1,12 @@
 ## The Quantified Self
 
-### Introduction
 The assignment for my 
 [Data Visualization Class at the CUNY Graduate Center](https://github.com/dataviz-gc/intro-dataviz-summer18), taught by 
 [Erin Daugherty](https://datadozen.com/about/) and 
 [Michelle McSweeney](http://www.michelleamcsweeney.com/) was to visualize a 
 [quantified self](http://quantifiedself.com/) project. 
+
+### The Data: Background
 
 I chose to work with data about my work as a librarian at Barnard College, a private, predominantly women's baccalaureate institution in New York City. As a librarian at Barnard, I have three specialties. I am the 
 [Associate Director of Communications](https://twitter.com/barnlib), a 
@@ -29,5 +30,7 @@ All of the details are in my
 [Twitter](https://twitter.com/zinelib/status/1003008050729570305). 
 
 The next steps would be sorting the complaints by volume and adding in the other years of data. 
+
+### The Data: Visualized
 
 {% include plot3.html %}
