@@ -10,7 +10,7 @@ The assignment for my
 
 I chose to work with data about my work as a librarian at Barnard College, a private, predominantly women's baccalaureate institution in New York City. As a librarian at Barnard, I have three specialties. I am the 
 [Associate Director of Communications](https://twitter.com/barnlib), a 
-[Personal Librarian](https://library.barnard.edu/profiles/jenna-freedman) (Personal Librarian is what we call research and instruction librarians at Barnard because our service is warmly customized to our students and faculty), and the 
+[Personal Librarian](https://library.barnard.edu/profiles/jenna-freedman) ("personal librarian" is how we refer to research and instruction librarians at Barnard because our service is warmly customized to our assigned students and liaison faculty), and the 
 [Zine Librarian](https://zines.barnard.edu/). 
 
 Please note that the consultations, instruction, and reference categories are most evocative of the Personal Librarian role. As AD for Communications I am responsible for event programming, outreach, and social media, as well as serving on the library's management team. As Zine Librarian the work I do cataloging zines, which I spend a full day on each week is not represented in the numbers, nor is the significant amount of professional work I do, including publishing in lay and scholarly outlets and presenting at conferences, universities, and other venues. 
