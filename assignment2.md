@@ -19,7 +19,10 @@ Please note that the consultations, instruction, and reference categories are mo
 
 {% include plot3.html %}
 
+At the moment, the embed link isn't functioning, so here's a link to the 
+[visualization on Tableau Public](https://public.tableau.com/shared/MJDPPTMY9?:display_count=yes). 
+
 ### Further Reading
 
 For more about my process and choices, see 
-[my proposal and notes](https://docs.google.com/document/d/e/2PACX-1vR9Hru-QwifG4TzU1egp_Q2hKXJ79FAydYmmFAU4hyz9kGYSynlxleg53SiA_U7tlJxgNoDVzK2t-X1/pub)
+[my proposal and notes](https://docs.google.com/document/d/e/2PACX-1vR9Hru-QwifG4TzU1egp_Q2hKXJ79FAydYmmFAU4hyz9kGYSynlxleg53SiA_U7tlJxgNoDVzK2t-X1/pub). 
