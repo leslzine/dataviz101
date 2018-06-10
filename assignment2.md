@@ -32,10 +32,13 @@ In a quantified self project, I assume the audience is typically the self. In th
 
 #### Visualization Description
 
-Below we see three paned charts: 
+Below we see three paned bar charts: 
 
 * Consultations Given
-* 
+* Classes Taught
+* Reference Questions Answered
+
+A 1-3 colored bar represents each month of the year 2017, and the colors correspond to role: communications, personal librarian, and zine librarian. Each chart is crossed with an average line, to help the reader see which months are busier and less busy than usual. 
 
 ### The Data: Visualized
 
@@ -45,6 +48,9 @@ At the moment, I can't get the embed to link to function, so here's a link to th
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/QuantitativeSelf/AYearintheWork). 
 
 #### Data Decisions
+
+* Colors were chosen for a color blind compliance, rather than for general aesthetics. 
+
 
 ### Further Reading
 
