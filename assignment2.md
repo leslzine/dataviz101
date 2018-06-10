@@ -15,12 +15,20 @@ I chose to work with data about my work as a librarian at Barnard College, a pri
 
 Please note that the consultations, instruction, and reference categories are most evocative of the Personal Librarian role. As AD for Communications I am responsible for event programming, outreach, and social media, as well as serving on the library's management team. As Zine Librarian the work I do cataloging zines, which I spend a full day on each week is not represented in the numbers, nor is the significant amount of professional work I do, including publishing in lay and scholarly outlets and presenting at conferences, universities, and other venues. 
 
+#### The Research Question
+
+#### The Audience
+
+#### Visualization Description
+
 ### The Data: Visualized
 
 {% include plot3.html %}
 
 At the moment, the embed link isn't functioning, so here's a link to the 
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/QuantitativeSelf/AYearintheWork). 
+
+#### Data Decisions
 
 ### Further Reading
 
