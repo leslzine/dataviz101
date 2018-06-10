@@ -1,7 +1,3 @@
-<html>
-
-  <body>
-  
 ##The Quantified Self
 
 The assignment for my 
@@ -29,7 +25,3 @@ All of the details are in my
 The next steps would be sorting the complaints by volume and adding in the other years of data. 
 
 {% include plot3.html %}
-
-  </body>
-
-</html>
