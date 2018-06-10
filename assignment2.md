@@ -58,7 +58,7 @@ If the embed link isn't functioning in your browser, here's a link to the
 
 Once I complete my monthly report for May (soon!) I could make calendars for academic years 2016/17 and 2017/18, which would be more applicable in the higher ed setting. Still, I consider this visualization dangerous in isolation for the reasons I mentioned in the background section above. Without representing all of the other work I do in communications and zine librarianship, the loads may appear more balanced than they actually are. 
 
-I do include additional information about my communications and zine work in my monthly reports, but it is harder to compare across departments. How many events hosted or tweets tweeted equal how many zines cataloged or presentations given? That's not to say that there isn't Womens, Gender, and Sexuality Studies librarian (personal librarian) work that isn't represented on the simple charts, too. 
+I do include additional information about my communications and zine work in my monthly reports, but it is harder to compare across departments. How many events hosted or tweets tweeted equal how many zines cataloged or presentations given? That's not to say that there isn't Womens, Gender, and Sexuality Studies librarian (personal librarian) work that isn't represented on the simple charts, too, e.g., outreach to students and building research guides. 
 
 ### Further Reading
 
