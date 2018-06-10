@@ -44,7 +44,7 @@ A 1-3 colored bar represents each month of the year 2017, and the colors corresp
 
 {% include plot3.html %}
 
-At the moment, I can't get the embed to link to function, so here's a link to the 
+If the embed link isn't functioning in your browser, here's a link to the 
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/QuantitativeSelf/AYearintheWork). 
 
 #### Data Decisions
