@@ -62,6 +62,10 @@ Once I complete my monthly report for May (soon!) I could make calendars for aca
 
 I do include additional information about my communications and zine work in my monthly reports, but it is harder to compare across departments. How many events hosted or tweets tweeted equal how many zines cataloged or presentations given? That's not to say that there isn't Womens, Gender, and Sexuality Studies librarian (personal librarian) work that isn't represented on the simple charts, too, e.g., outreach to students and building research guides. 
 
+Finally, I'm not sure if I answered the "am I a slacker or a driven workaholic" question with this one series of visualization. I would need to normalize it somehow. I don't think comparing my work to that of colleagues would be useful because no one has the same balance of jobs that I do, I have fewer PL departments than others, etc. I could try mathing it to a 35-hour work-week and account for holidays, vacation (27 use-em-or-lose-em days), professional leave, and affordances for MALS coursework. And, of course, figure out how to quantify or otherwise evaluate the data not included. 
+
+I will adapt my monthly reports to this format, though, going forward!
+
 ### Further Reading
 
 For more about my process and choices, see 
