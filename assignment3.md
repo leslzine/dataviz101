@@ -1,4 +1,4 @@
-## Zine Genres, by Lustrum
+# Zine Genres, by Lustrum
 
 The 
 [final assignment](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/finalproject.md) for my 
@@ -7,29 +7,24 @@ The
 [Michelle McSweeney](http://www.michelleamcsweeney.com/) was to articulate a research question, find data for it, and visualize a 
 it in three different ways. 
 
-### The Data: Background
+## The Data: Background
 
 I chose to work with data about the 
-[Barnard Zine Library](https://zines.barnard.edu/), which I founded in 2003 and continue to curate. I am frequently asked how zines have changed over time. Since I catalog zines as they are acquired, and not by decade (or lustrum, which is what a five-year period is called, and the unit of measure I have chosen for this project), I have a 
+[Barnard Zine Library](https://zines.barnard.edu/), which I founded in 2003 and continue to curate. I am frequently asked how zines have changed over time. Since I catalog zines as they are acquired, and not by decade (or 
+[lustrum](https://en.oxforddictionaries.com/definition/lustrum), which is what a five-year period is called, and the unit of measure I have chosen for this project), I have don't have the clearest sense of how zine genres and contents have shifted. I have theories, which I will test here.
 
-Please note that the consultations, instruction, and reference categories are most evocative of the Personal Librarian role. As AD for Communications I am responsible for event programming, outreach, and social media, as well as serving on the library's management team. As Zine Librarian the work I do cataloging zines, which I spend a full day on each week is not represented in the numbers, nor is the significant amount of professional work I do, including publishing in lay and scholarly outlets and presenting at conferences, universities, and other venues. 
+By comparing the percentage of 
+[zine genres](https://zines.barnard.edu/about/genres) in the Barnard Zine Library, correlated to the five-year the zines were published, I hope to illustrate the emphases of each era. 
 
-#### The Research Question
-ME: I am a slacker. 
+### The Research Question
 
-ALSO ME: I am a driven workaholic. 
+My suspicion is that zine creators in the 1990s wrote more about sexual assault and critiqued capitalist systems of oppression more than their 2010s counterparts, who are more likely to write about mental health and friendship, and turn to more artistic expressions of their times. 
 
-Both of these things feel true. But are they? What do I do all day? All week? Month? Year? 
+### The Audience
 
-Every month I complete a report at work, detailing the number of references questions I've handled, consultations, I've given, classes I've taught, researchers I've hosted, and more. In these monthly reports I indicate which of my three work hats I was wearing during each action: communications, personal librarian, or zine librarian. It would be useful for me to know how much effort I am put into each part of my job as my library prepares to expand its resources and services in the new school year. What am I doing? How am I spending my time? Which hat gets the most wear?  
+I frequently get asked about how zines have changed over the years--by journalists, undergraduates, senior scholars, zine makers, librarians, and audience members at panels. How zines have changed over the years could be of interest to people doing work with girls and women's studies, gender studies, creative nonfiction, media studies, cultural studies, punk history, social justice, sociology, psychology, history of the book, English, library and information studies, and in other disciplines, as they imagine. Maybe it will be appealing to data scientists, too.
 
-Furthermore, as I dig into the data, I am finding that doing so is providing an unexpected benefit: pleasure. Reminding myself of the research topics I get to consult on, the classes I get to teach in, and the zine projects I get to engage in makes me feel intensely happy about the students, faculty, zinesters, and librarians I work with. 
-
-#### The Audience
-
-In a quantified self project, I assume the audience is typically the self. In this case I think there is practical use in sharing my visualizations with my boss as she imagines how we may need to adapt my responsibilities when my library opens in its new space this fall, when she conducts my annual review, and generally when she communicates about library work to college administrators. 
-
-#### Visualization Description
+### Visualization Description
 
 Below we see three paned bar charts: 
 
@@ -39,15 +34,37 @@ Below we see three paned bar charts:
 
 A 1-3 colored bar represents each month of the year 2017, and the colors correspond to role: communications, personal librarian, and zine librarian. Each chart is crossed with an average line, to help the reader see which months are busier and less busy than usual. 
 
-### The Data: Visualized
+## The Data: Visualized
+
+### Tree Plot
 
 {% include treeplot.html %}
-{% include linegraph.html %}
-{% include gantt.html %}
-
 
 If the embed link isn't functioning in your browser, here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/QuantitativeSelf/AYearintheWork). 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3_435/TreeMapDashboard). 
+
+
+#### Data Decisions
+
+### Line Graph
+
+{% include linegraph.html %}
+
+If the embed link isn't functioning in your browser, here's a link to the 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3-lines/Dashboard1). 
+
+#### Data Decisions
+
+### Gantt Chart
+
+{% include gantt.html %}
+
+If the embed link isn't functioning in your browser, here's a link to the 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3-dispersion/DispersionPlotDashboard). 
+
+#### Data Decisions
+
+
 
 #### Data Decisions
 
