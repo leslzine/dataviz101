@@ -98,7 +98,8 @@ I didn't do as much tweeting this week, but do check out threads from
 [Saturday](https://twitter.com/zinelib/status/1008063807799873537) and
 [Sunday](https://twitter.com/zinelib/status/1008455471974502406). 
 
-Also, big shout out to Digital Fellow 
-[Hannah](https://twitter.com/story645) for kindness and talking-me-downness. 
+Also, big shout outs to Digital Fellow 
+[Hannah](https://twitter.com/story645) for kindness and talking-me-downness and librarian zinester 
+[Rhonda](https://twitter.com/crafterslane), without whom I'd still be struggling to transform my dataset. 
 
 ### [Home](https://leslzine.github.io/dataviz101/)
