@@ -4,8 +4,7 @@ The
 [final assignment](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/finalproject.md) for my 
 [Data Visualization Class at the CUNY Graduate Center](https://github.com/dataviz-gc/intro-dataviz-summer18), taught by 
 [Erin Daugherty](https://datadozen.com/about/) and 
-[Michelle McSweeney](http://www.michelleamcsweeney.com/) was to articulate a research question, find data for it, and visualize a 
-it in three different ways. 
+[Michelle McSweeney](http://www.michelleamcsweeney.com/) was to articulate a research question, find data for it, and visualize it in three different ways. 
 
 ## The Data: Background
 
@@ -26,17 +25,27 @@ I frequently get asked about how zines have changed over the years--by journalis
 
 ### Visualization Description
 
-Below we see three paned bar charts: 
+My first visualizations is a tree plot and sub plots, that show the moving collection percentages of fifteen zine genres employed at the Barnard Zine Library:
 
-* Consultations Given
-* Classes Taught
-* Reference Questions Answered
-
-A 1-3 colored bar represents each month of the year 2017, and the colors correspond to role: communications, personal librarian, and zine librarian. Each chart is crossed with an average line, to help the reader see which months are busier and less busy than usual. 
+* **24-hour Zines**: zines conceived, created, and assembled in a 24-hour period
+* **Art Zines**: zines comprised primarily of art work
+* **Catalog Zines**: zines that sell things, often other zines
+* **Compilation Zines**: zines edited by one or more people, comprised of contributed content, often related to a theme
+* **DIY Zines**: (DIY stands for "Do It Yourself") zines that intend to educate the reader on how to do or make something. This category includes, but is not limited tok cooking, or "cookzines." 
+* **Fanzines**: zines about a person, thing, or activity, often music
+* **Mamazines**: zines about parenting, written by a person of any gender (this genre name should probably change!)
+* **Minicomics**: zines comprised primarily of comics and cartoonlike images. They are generally smaller than comics, and more autobiographical
+* **One-page Folding-Zines**: 
+[zines made out of one sheet of paper, folded in eight, with a slit in the middle to make it fold into a book](http://www.readbrightly.com/how-to-make-zine/)
+* **Personal Zines**: zines on personal topics, autobiographical creative nonfiction 
+* **Political Zines**: explicitly political, sometimes action-oriented zines
+* **Review Zines**: zines that review other zines and sometimes books, music, and comics, as well
+* **School Zines**: any zine made for a class, grade, organization, or otherwise not 100% under the creator's impetus and control
+* **Split Zines**: most often a zine with a *tête-bêche* or *dos-a-dos* binding, where one contributor's content is head-to-toe and front-to-back with the other contributors
 
 ## The Data: Visualized
 
-### Tree Plot
+### Treemap
 
 {% include treeplot.html %}
 
@@ -45,6 +54,8 @@ If the embed link isn't functioning in your browser, here's a link to the
 
 
 #### Data Decisions
+
+In my past visualizations I've used Tableau's color blind palette, but since it only has 10 colors, and my treemap has 15, I went with Tableau 20. I was concerned I wouldn't finish all three plots and the blog post in time, so I let that go, to be revisited before Thursday.
 
 ### Line Graph
 
