@@ -72,7 +72,7 @@ Moving on from the treemap, I wanted to get a better look at zines by genre, so 
 
 The small multiples give a good snapshot of how each genre's representation in the Barnard Zine Library changed over time. 
 
-### Gantt Chart
+### Disperion Plot
 
 {% include gantt.html %}
 
@@ -81,28 +81,24 @@ If the embed link isn't functioning in your browser, here's a link to the
 
 #### Data Decisions
 
-
-
-
+Confession: I made a dispersion plot because I thought it looked cool when we did it in class. I tried to replicate the Tableau Action we created with the Arthur dataset, and was not successful. The chart, while not wholly functional, is at its strongest for viewing how genres clump together and how Personal Zines remain dominant throughout. 
 
 ### Next Steps
 
-Once I complete my monthly report for May (soon!) I could make calendars for academic years 2016/17 and 2017/18, which would be more applicable in the higher ed setting. Still, I consider this visualization dangerous in isolation for the reasons I mentioned in the background section above. Without representing all of the other work I do in communications and zine librarianship, the loads may appear more balanced than they actually are. 
+Clearly I need to make the small and medium-size fixes I have mentioned throughout this post. A large change would be to add holdings from zines from other collections to be able to compare and them by library type and focus. How do genres compare in a library that has more gender diversity? Or one with holdings that go back farther? 
 
-I do include additional information about my communications and zine work in my monthly reports, but it is harder to compare across departments. How many events hosted or tweets tweeted equal how many zines cataloged or presentations given? That's not to say that there isn't Womens, Gender, and Sexuality Studies librarian (personal librarian) work that isn't represented on the simple charts, too, e.g., outreach to students and building research guides. 
-
-Finally, I'm not sure if I answered the "am I a slacker or a driven workaholic" question with this one series of visualization. I would need to normalize it somehow. I don't think comparing my work to that of colleagues would be useful because no one has the same balance of jobs that I do, I have fewer PL departments than others, etc. I could try mathing it to a 35-hour work-week and account for holidays, vacation (27 use-em-or-lose-em days), professional leave, and affordances for MALS coursework. And, of course, figure out how to quantify or otherwise evaluate the data not included. 
-
-I will adapt my monthly reports to this format, though, going forward!
+I had originally intended to compare Library of Congress Subject Headings (LCSH), rather than genres, but the volume of headings and the data clean-up involved were too cumbersome for this project. I need to make a lot of decisions about LCSH taxonomy and experiment with concatenation and cell-splitting to see how best to manage this massive dataset. 
 
 ### Further Reading
 
 For more about my process and choices, see 
-[my proposal and notes](https://docs.google.com/document/d/e/2PACX-1vR9Hru-QwifG4TzU1egp_Q2hKXJ79FAydYmmFAU4hyz9kGYSynlxleg53SiA_U7tlJxgNoDVzK2t-X1/pub). You'll find there information on how I reformattted and cleaned my data, fields included in the dataset but not the visualization, inconsistent reporting, database crashes, and a brief ode to the sketch, along with my initial sketch itself. 
+[my proposal and notes](https://docs.google.com/document/d/e/2PACX-1vRdar9rOZiCWVtK8cgt2UeDZr3yxvCMY1dOoKubzlhUlxFOkpbETu_vaqZpyD6RLSFcxRJ3Rvp_BB-q/pub).  
 
-I didn't do as much tweeting this week, but do check out
-[my thread](https://twitter.com/zinelib/status/1005544964703576064) for a panda gif trolling Tableau, 
-[my cat's commentary](https://twitter.com/zinelib/status/1005515362631344129), and a 
-[hint of desperation](https://twitter.com/zinelib/status/1005507326009335813). 
+I didn't do as much tweeting this week, but do check out threads from 
+[Saturday](https://twitter.com/zinelib/status/1008063807799873537) and
+[Sunday](https://twitter.com/zinelib/status/1008455471974502406). 
+
+Also, big shout out to Digital Fellow 
+[Hannah](https://twitter.com/story645) for kindness and talking-me-downness. 
 
 ### [Home](https://leslzine.github.io/dataviz101/)
