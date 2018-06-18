@@ -78,4 +78,4 @@ I didn't do as much tweeting this week, but do check out
 [my cat's commentary](https://twitter.com/zinelib/status/1005515362631344129), and a 
 [hint of desperation](https://twitter.com/zinelib/status/1005507326009335813). 
 
-HOME BUTTON
+### [Home](https://leslzine.github.io/dataviz101/)
