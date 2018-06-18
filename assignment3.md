@@ -23,7 +23,7 @@ My suspicion is that zine creators in the 1990s wrote more about sexual assault 
 
 I frequently get asked about how zines have changed over the years--by journalists, undergraduates, senior scholars, zine makers, librarians, and audience members at panels. How zines have changed over the years could be of interest to people doing work with girls and women's studies, gender studies, creative nonfiction, media studies, cultural studies, punk history, social justice, sociology, psychology, history of the book, English, library and information studies, and in other disciplines, as they imagine. Maybe it will be appealing to data scientists, too.
 
-### Visualization Description
+### Zine Genres
 
 My first visualizations is a tree plot and sub plots, that show the moving collection percentages of fifteen zine genres employed at the Barnard Zine Library:
 
@@ -57,6 +57,8 @@ If the embed link isn't functioning in your browser, here's a link to the
 
 In my past visualizations I've used Tableau's color blind palette, but since it only has 10 colors, and my treemap has 15, I went with Tableau 20. I was concerned I wouldn't finish all three plots and the blog post in time, so I let that go, to be revisited before Thursday.
 
+The top treemap shows zines, ranked by genre percentage over the whole 25-year period, with each genre assigned its own color. The exercise is repeated five times, once for each lustrum. Overall, personal zines comprise 44.33% of zine genre types and is the top-ranked genre throughout each lustrum, as well. This shows that zines held in the Barnard Library, a collection of zines predominantly made by women, are heavily focused on personal experiences. Political zines remain in the top five categories until the 2010-2014 lustrum, which bears out my theory that zines are less political now than they were in earlier years. Art zines are more heavily represented in each lustrum, giving credence to the other part of my hypothesis. 
+
 ### Line Graph
 
 {% include linegraph.html %}
@@ -65,6 +67,10 @@ If the embed link isn't functioning in your browser, here's a link to the
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3-lines/Dashboard1). 
 
 #### Data Decisions
+
+Moving on from the treemap, I wanted to get a better look at zines by genre, so I chose to make one line graph of the top five zine genres over time and small multiples to illustrate the top ten individually. I don't know what happened with the missing lustra heading on Literary and Split Zines, so I'll figure that out for the final presentation. Another fix I need to make: the colors changed because I started a new workbook. 
+
+The small multiples give a good snapshot of how each genre's representation in the Barnard Zine Library changed over time. 
 
 ### Gantt Chart
 
@@ -77,14 +83,7 @@ If the embed link isn't functioning in your browser, here's a link to the
 
 
 
-#### Data Decisions
 
-* Colors were chosen for a color blind compliance, rather than for general aesthetics. 
-* This visualization shows the number of research consultations I gave, instruction sessions I led, and reference questions I responded to in the year 2017. I have data from December 2015-April 2018 that I am happy to share, but showing just the most recent year for which I have complete data seemed like it would give a good enough picture of how I divide my time, at least in those three areas, in a cleaner manner than including the other months. 
-* I originally envisioned this data in a line graph, rather than a bar chart. I switched when I realized that lines indicate trends, and while my work is cyclical one month's numbers don't necessarily relate to those of the previous or next month's. 
-* There were many fields in my initial dataset that I chose not to include in the visualization because they were extraneous or inconsistently reported. That includes, e.g., the medium of reference questions--if they came in via email, Tweet, IM, or in person. The granularity would have muddied, rather than improved the visualization. 
-* I would have liked and would like to before too long, add in some of the columns in my dataset that I didn't include, but for now, the granularity of the columns I did include feel like scope creep. 
-* I had intended to include description information in the rollover text. I got that working for sections where there is only one of a kind, e.g., one consultation for a role in one month, but not when there are multiple of a kind in a month. Lauren managed it in her Amazon visualization, so I'm hoping I might get help and figure that out before the pin up! 
 
 ### Next Steps
 
