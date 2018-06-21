@@ -64,6 +64,10 @@ In my past visualizations I've used Tableau's color blind palette, but since it 
 
 The top treemap shows zines, ranked by genre percentage over the whole 25-year period, with each genre assigned its own color. The exercise is repeated five times, once for each lustrum. Overall, personal zines comprise 44.33% of zine genre types and is the top-ranked genre throughout each lustrum, as well. This shows that zines held in the Barnard Library, a collection of zines predominantly made by women, are heavily focused on personal experiences. Political zines remain in the top five categories until the 2010-2014 lustrum, which bears out my theory that zines are less political now than they were in earlier years. Art zines are more heavily represented in each lustrum, giving credence to the other part of my hypothesis. 
 
+### Circle Chart
+{% include final-circle.html %}
+
+
 ### Line Graph
 
 {% include linegraph.html %}
