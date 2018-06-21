@@ -26,9 +26,7 @@ These singular works are not widely held in libraries, and when they are, their 
 
 ### The Audience
 
-I frequently get asked about how zines have changed over the years--by journalists, undergraduates, senior scholars, zine makers, librarians, and audience members at panels. How zines have changed over the years could be of interest to people doing work with girls and women's studies, gender studies, creative nonfiction, media studies, cultural studies, punk history, social justice, sociology, psychology, history of the book, English, library and information studies, and in other discip
-
-s, as they imagine. Maybe it will be appealing to data scientists, too.
+I frequently get asked about how zines have changed over the years--by journalists, undergraduates, senior scholars, zine makers, librarians, and audience members at panels. How zines have changed over the years could be of interest to people doing work with girls and women's studies, gender studies, creative nonfiction, media studies, cultural studies, punk history, social justice, sociology, psychology, history of the book, English, library and information studies, and in other disciplines, as they imagine. Maybe it will be appealing to data scientists, too.
 
 ### Zine Genres
 
