@@ -57,7 +57,7 @@ My first visualizations is a tree plot and sub plots, that show the moving colle
 {% include final-tree.html %}
 
 **If the embed link isn't functioning in your browser, here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Tree/TreemapDashboard). 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Tree/TreemapDashboard).** 
 
 
 #### Data Decisions
@@ -70,7 +70,7 @@ The top treemap shows zines, ranked by genre percentage over the whole 25-year p
 {% include final-circle.html %}
 
 **If the embed link isn't functioning in your browser, here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Circle/CircleGraphDashboard). 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Circle/CircleGraphDashboard).** 
 
 #### Data Decisions
 
@@ -81,7 +81,7 @@ I originally wanted a dispersion chart here, mostly because I think they look co
 {% include final-line.html %}
 
 **If the embed link isn't functioning in your browser, here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Line_0/LineGraphsDashboard). 
+[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Final-Line_0/LineGraphsDashboard).** 
 
 #### Data Decisions
 
