@@ -20,7 +20,7 @@ By comparing the percentage of
 My suspicion is that zine creators in the 1990s wrote more about sexual assault and critiqued capitalist systems of oppression more than their 2010s counterparts, who are more likely to write about mental health and friendship, and turn to more artistic expressions of their times. For a little background, from the 
 [Zine Librarians Code of Ethics](http://zinelibraries.info/2016/05/30/code-of-ethics-1115-web-version/), zines are
 
-```beautifully and wonderfully varied, is often weird, ephemeral, magical, dangerous, and emotional
+```beautifully and wonderfully varied, is often weird, ephemeral, magical, dangerous, and emotional```
 
 These singular works are not widely held in libraries, and when they are, their often inadequate descriptions in library catalogs further diminishes their visibility in the places entrusted to document cultures and movements. Zines are first person stories, written for peer audiences that capture experiences and viewpoints otherwise underrepresented in mainstream libraries, archives, and museums. Endeavors like this one attempt to help lift the voices of people holding marginalized identities because of their age, race, ethnicity, gender, gender identity, disability status, income, education, and/or their political opinions. 
 
