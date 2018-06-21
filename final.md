@@ -52,9 +52,9 @@ My first visualizations is a tree plot and sub plots, that show the moving colle
 
 ### Treemap
 
-{% include treeplot.html %}
+{% include final-tree.html %}
 
-If the embed link isn't functioning in your browser, here's a link to the 
+**If the embed link isn't functioning in your browser, here's a link to the 
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3_435/TreeMapDashboard). 
 
 
@@ -67,12 +67,15 @@ The top treemap shows zines, ranked by genre percentage over the whole 25-year p
 ### Circle Chart
 {% include final-circle.html %}
 
+#### Data Decisions
+
+I originally wanted a dispersion chart here, mostly because I think they look cool, but it turns out, I don't have sufficiently constrained enough publishing dates to make such a visualization possible. Instead, I chose sized circles to contrast zine genre change by lustrum. 
 
 ### Line Graph
 
-{% include linegraph.html %}
+{% include final-line.html %}
 
-If the embed link isn't functioning in your browser, here's a link to the 
+**If the embed link isn't functioning in your browser, here's a link to the 
 [visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3-lines/Dashboard1). 
 
 #### Data Decisions
@@ -80,17 +83,6 @@ If the embed link isn't functioning in your browser, here's a link to the
 Moving on from the treemap, I wanted to get a better look at zines by genre, so I chose to make one line graph of the top five zine genres over time and small multiples to illustrate the top ten individually. I don't know what happened with the missing lustra heading on Literary and Split Zines, so I'll figure that out for the final presentation. Another fix I need to make: the colors changed because I started a new workbook. 
 
 The small multiples give a good snapshot of how each genre's representation in the Barnard Zine Library changed over time. 
-
-### Disperion Plot
-
-{% include gantt.html %}
-
-If the embed link isn't functioning in your browser, here's a link to the 
-[visualization on Tableau Public](https://public.tableau.com/profile/jenna.freedman#!/vizhome/Assignment3-dispersion/DispersionPlotDashboard). 
-
-#### Data Decisions
-
-Confession: I made a dispersion plot because I thought it looked cool when we did it in class. I tried to replicate the Tableau Action we created with the Arthur dataset, and was not successful. The chart, while not wholly functional, is at its strongest for viewing how genres clump together and how Personal Zines remain dominant throughout. 
 
 ### Next Steps
 
